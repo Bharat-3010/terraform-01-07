@@ -1,3 +1,4 @@
+#AWS-Region Name
 variable "aws_region"{
 description = "The AWS region to launch resources"
 type = string
